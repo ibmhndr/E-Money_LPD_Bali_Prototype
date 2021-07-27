@@ -1,0 +1,56 @@
+.bgbody{
+        background-image: url(../images/background.jpg);
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+      }
+.pinggir{
+	font-size: 16pt;
+	font-family:"Segoe UI";
+	text-align: center;
+	color: white;
+}
+.container{
+	margin-top: 150px;
+}
+.jumbotron {
+	background: rgba(255, 255, 255, 0.3);
+	margin-top: 10px;
+}
+
+.input-group .form-control{
+	height: 40px;
+}
+.custom{
+	margin-left:-30px;
+}
+.btn-login{
+	width: 128px;
+}
+*{
+  font-family:"Segoe UI";
+}
+a {
+	text-decoration:none !important;
+}
+@charset "utf-8";
+/* CSS Document */
+a{
+	text-decoration: none important!;
+}
+.navbar-fixed-top .nav {
+    padding: 0px 0px 0px 0px;
+}
+#navbar-color{
+	background: #000000;
+	color:#fff;
+}
+#navbar-font{
+	color:#fff;
+}
+.navbar-fixed-top .navbar-brand {
+    padding: 0 15px;
+}

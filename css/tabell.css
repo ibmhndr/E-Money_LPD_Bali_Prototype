@@ -1,0 +1,33 @@
+.tabel{
+	width: 100%;
+	font-size: 11px;
+	font-weight: bold;
+	border-color: white;
+	text-align: center;
+}
+.tabel th {
+	color: black;
+	padding: 1em;
+	text-transform: uppercase;
+	font-family: Poppins;
+	text-align: center;
+}
+.tabel td {
+	border-bottom: 1px solid #ddd;
+	padding: 1em;
+	font-family: Poppins;
+	color: black;
+	text-align: center;
+}
+.tabel tr:nth-child(even) {
+	background-color: rgba(210,204,204,1);
+	font-family: Poppins;
+	color: black;
+	text-align: center;
+}
+.tabel tr:nth-child(odd) {
+	background-color: rgba(255,255,255,1);
+	font-family: Poppins;
+	color: black;
+	text-align: center;
+}
